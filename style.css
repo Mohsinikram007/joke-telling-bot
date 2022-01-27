@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(15, 96, 167);
+    color: white;
+    align-items: center;
+    text-align: center;
+}
+.form-select{
+    margin: auto;
+    width: 30%;
+    
+
+}
